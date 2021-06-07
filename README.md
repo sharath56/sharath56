@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharath56👓
 - 👀 I’m interested in IOT,ML and ComputerVision🧿♣📡
 - 🌱 I’m currently learning Medical IOT and Medical Image Analysis😘
-- 💞️ I’m looking to collaborate on ...
+- 🤘  Medical Electronics and Signal processing
 - 📫 How to reach me :https://www.linkedin.com/in/sharath-narayan-93160920b/✋
 
 <<<Hi! I'm Sharath🖖 and I'm an Engineer. I love designing and building a variety of circuits, programming, and executing them.

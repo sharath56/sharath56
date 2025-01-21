@@ -2,7 +2,7 @@
 👋 Hi, I’m @sharath56👓<br>👀 I’m interested in IOT,ML and Computer Vision🧿♣📡<br>🌱 I’m currently learning Medical IOT and Medical Image Analysis😘<br>🤘  Medical Electronics and Signal processing<br> 📫 How to reach me :https://www.linkedin.com/in/sharath-narayan-93160920b/✋
 
 <div align="center">
-  <img src="[https://github.com/amri-tah/amri-tah/assets/111682039/2de3c99c-4228-4413-b5c4-c2abd9cf2ae4](https://images.app.goo.gl/iyJFEzLx83VrEJrV7)" alt="me lol" width="700px">
+  <img src="(https://images.app.goo.gl/iyJFEzLx83VrEJrV7)" alt="me lol" width="700px">
 </div>
 
 

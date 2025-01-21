@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div align="center">
-  <img src="[https://images.app.goo.gl/iyJFEzLx83VrEJrV7](https://github.com/sharath56/sharath56/blob/main/original_23.gif)" alt="me lol" width="700px">
+  <img src="(https://github.com/sharath56/sharath56/blob/main/original_23.gif)" alt="me lol" width="700px">
 </div>
 
 👋 Hi, I’m @sharath56👓<br>👀 I’m interested in IOT,ML and Computer Vision🧿♣📡<br>🌱 I’m currently learning Medical IOT and Medical Image Analysis😘<br>🤘  Medical Electronics and Signal processing<br> 📫 How to reach me :https://www.linkedin.com/in/sharath-narayan-93160920b/✋

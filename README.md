@@ -1,6 +1,4 @@
-Hello! 
 # I'm Sharath
-# an Engineer 
 <div align="center">
   <img src="https://github.com/sharath56/sharath56/blob/main/original_23.gif" alt="me lol" width="700px">
 </div>
@@ -26,3 +24,5 @@ Hello!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharath-narayan) 
 
 📫 How to reach me :https://www.linkedin.com/in/sharath-narayan-93160920b/✋
+
+# Live Long and Prosper 🖖

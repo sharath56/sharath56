@@ -1,6 +1,6 @@
-# 💫 About Me:
-
-Hello! I'm Sharath, an Engineer 
+Hello! 
+# I'm Sharath
+# an Engineer 
 <div align="center">
   <img src="https://github.com/sharath56/sharath56/blob/main/original_23.gif" alt="me lol" width="700px">
 </div>

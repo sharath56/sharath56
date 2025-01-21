@@ -1,11 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m @sharath56👓<br>👀 I’m interested in IOT,ML and Computer Vision🧿♣📡<br>🌱 I’m currently learning Medical IOT and Medical Image Analysis😘<br>🤘  Medical Electronics and Signal processing<br> 📫 How to reach me :https://www.linkedin.com/in/sharath-narayan-93160920b/✋
 
 <div align="center">
   <img src="[https://images.app.goo.gl/iyJFEzLx83VrEJrV7](https://github.com/sharath56/sharath56/blob/main/original_23.gif)" alt="me lol" width="700px">
 </div>
 
-
+👋 Hi, I’m @sharath56👓<br>👀 I’m interested in IOT,ML and Computer Vision🧿♣📡<br>🌱 I’m currently learning Medical IOT and Medical Image Analysis😘<br>🤘  Medical Electronics and Signal processing<br> 📫 How to reach me :https://www.linkedin.com/in/sharath-narayan-93160920b/✋
 Hello! I'm Sharath, an Engineer with a deep passion for circuit design and embedded systems. My journey into the world of electronics began in my second year of engineering, where I started with simple circuits and gradually advanced to more complex designs. Over time, I've gained extensive experience working with Arduino, Raspberry Pi, the ESP series, and other cutting-edge technologies.
 I thrive on experimenting with new ideas and pushing the boundaries of what's possible. My interests span a range of areas, including circuit simulation, sensors, microcontrollers, and IoT. I'm particularly enthusiastic about the intersection of technology and healthcare, which has led me to focus on medical IoT and medical image analysis.
 The challenges that come with circuit design and programming are part of what I love about this field. They drive me to continuously learn, adapt, and find innovative solutions. Whether it's developing new circuits or exploring the latest advancements in medical technology, I'm always excited to take on new challenges and contribute to the field

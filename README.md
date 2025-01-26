@@ -1,4 +1,5 @@
 # I'm Sharath
+
 <div align="center">
   <img src="https://github.com/sharath56/sharath56/blob/main/original_23.gif" alt="me lol" width="700px">
 </div>
@@ -31,7 +32,6 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <h2>GitHub Stats & Streak</h2>
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=sharath56&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <!-- GitHub Streak Stats -->
@@ -44,7 +44,6 @@
   <!-- Visit Count -->
   <img src="https://visitcount.itsvg.in/api?id=sharath56">
 </div>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharath-narayan) 

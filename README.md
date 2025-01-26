@@ -37,7 +37,7 @@
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharath56&theme=dark&hide_border=false" alt="GitHub Streak Stats">
   
- ## ![image](https://github.com/user-attachments/assets/ffb9d6a6-0866-4282-aa75-280ffd733c6e) Top Languages & Contributions:
+ ## 👾 Top Languages & Contributions:
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath56&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
   <!-- GitHub Contributions -->

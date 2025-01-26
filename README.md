@@ -47,8 +47,6 @@
   <!-- GitHub Contributions -->
   <img src="https://github-contributor-stats.vercel.app/api?username=sharath56&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributions">
   
-  <h2>Profile Views</h2>
-  
   <!-- Visit Count -->
   <img src="https://visitcount.itsvg.in/api?id=sharath56&icon=0&color=0" alt="Profile Views">
   

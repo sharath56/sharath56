@@ -49,8 +49,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharath-narayan) 
 
-📫 How to reach me :https://www.linkedin.com/in/sharath-narayan-93160920b/✋
-🖖 my Blog https://sharathnarayan12.github.io/MY-web-page/. (still under progress ahahahahah!!!)
+📫 How to reach me :https://www.linkedin.com/in/sharath-narayan-93160920b/
+
+✋🖖 my Blog https://sharathnarayan12.github.io/MY-web-page/. (still under progress ahahahahah!!!)
 
 # Live Long and Prosper 🖖
 

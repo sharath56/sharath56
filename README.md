@@ -54,4 +54,4 @@
 📫 How to reach me :https://www.linkedin.com/in/sharath-narayan-93160920b/✋
 
 # Live Long and Prosper 🖖
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fmario-gif-mario-discover-share-gifs--592716000958641099%2F&psig=AOvVaw0jaBp4tQ63G9hTIdY7qTXN&ust=1738735546927000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCf8umsqYsDFQAAAAAdAAAAABAU">
+ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fmario-gif-mario-discover-share-gifs--592716000958641099%2F&psig=AOvVaw0jaBp4tQ63G9hTIdY7qTXN&ust=1738735546927000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCf8umsqYsDFQAAAAAdAAAAABAU

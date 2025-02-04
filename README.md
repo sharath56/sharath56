@@ -53,8 +53,10 @@
 
 📫 How to reach me :https://www.linkedin.com/in/sharath-narayan-93160920b/✋
 
+# Live Long and Prosper 🖖
+
 <div align="center">
 <img src="https://github.com/sharath56/sharath56/blob/main/Mario%20GIF%20-%20Mario%20-%20Discover%20%26%20Share%20GIFs.gif">
 </div>
 
-# Live Long and Prosper 🖖
+

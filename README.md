@@ -25,6 +25,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino-Dark.svg" alt="Arduino" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"alt="Arduino" width="40" height="40" />
   </div>
 
 ## 📊 GitHub Stats:

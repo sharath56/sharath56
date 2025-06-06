@@ -23,7 +23,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Scikitlearn-Dark.svg" alt="scikit-learn" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino-Dark.svg" alt="Arduino" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/docker.svg" alt="Docker" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" width="40" height="40" />
   </div>
 

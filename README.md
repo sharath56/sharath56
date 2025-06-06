@@ -9,23 +9,24 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/YAML.svg" alt="YAML" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/YAML-Dark.svg" alt="YAML" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku-Dark.svg" alt="Heroku" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" alt="Heroku" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" alt="OpenCV" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ROS-Dark.svg" alt="ROS" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB-Dark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Keras-Dark.svg" alt="Keras" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Keras.svg" alt="Keras" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="PyTorch" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Scikitlearn-Dark.svg" alt="scikit-learn" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="scikit-learn" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"alt="Arduino" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg"alt="Flask" width="40" height="40" />
   </div>
 
 ## 📊 GitHub Stats:

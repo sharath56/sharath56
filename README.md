@@ -6,26 +6,25 @@
 
 # 💻 Tech Stack:
   <div>
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-      <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" alt="YAML">
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-      <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
-      <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
-      <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ROS-Dark.svg" alt="ros" width="40" height="40"/>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
-      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TF" width="40" height="40"/>
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="RPi" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP-Dark.svg" alt="C++" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C-Dark.svg" alt="C" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/YAML-Dark.svg" alt="YAML" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku-Dark.svg" alt="Heroku" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" alt="OpenCV" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ROS-Dark.svg" alt="ROS" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB-Dark.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Keras-Dark.svg" alt="Keras" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Scikitlearn-Dark.svg" alt="scikit-learn" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino-Dark.svg" alt="Arduino" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker-Dark.svg" alt="Docker" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" width="40" height="40" />
   </div>
 
 ## 📊 GitHub Stats:

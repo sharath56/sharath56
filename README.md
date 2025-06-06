@@ -6,8 +6,8 @@
 
 # 💻 Tech Stack:
   <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP-Dark.svg" alt="C++" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C-Dark.svg" alt="C" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/YAML-Dark.svg" alt="YAML" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40" />

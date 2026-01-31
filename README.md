@@ -29,6 +29,28 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg"alt="Flask" width="40" height="40" />
   </div>
 
+## 👾 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharath56&show_icons=true&theme=dark" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath56&layout=compact&theme=dark" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharath56&theme=dark"/>
+
+</div>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sharath56&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+
+
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharath-narayan) 

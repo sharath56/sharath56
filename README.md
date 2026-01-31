@@ -69,7 +69,7 @@
 
 ## 🧪 Developer Diagnostics
 
-```txt
+
 OS        : Ubuntu (because pain builds character)
 Editor    : Whatever opened fastest
 Debugging : print(), hope, repeat
@@ -90,4 +90,4 @@ Uptime    : depends on coffee ☕
   <img src="https://github.com/sharath56/sharath56/blob/main/Mario%20GIF%20-%20Mario%20-%20Discover%20%26%20Share%20GIFs.gif" style="width: 200px; height: auto;">
 </div>
 
-
+```txt

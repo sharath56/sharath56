@@ -1,33 +1,80 @@
-# I'm Sharath
-
 <div align="center">
   <img src="https://github.com/sharath56/sharath56/blob/main/original_23.gif" alt="me lol" width="700px">
 </div>
 
-# 💻 Tech Stack:
-  <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40" />
-<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/YAML-Dark.svg" alt="YAML" width="40" height="40" /> -->
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" alt="Heroku" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" alt="OpenCV" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ROS-Dark.svg" alt="ROS" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="PyTorch" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="scikit-learn" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"alt="Arduino" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg"alt="Flask" width="40" height="40" />
-  </div>
+<h1 align="center">👾 Sharath.exe has started</h1>
+
+<p align="center">
+  <i>ML • Cloud • Robotics • Systems • Professional bug negotiator</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharath56&label=Humans%20Visited&style=flat" />
+</p>
+
+---
+
+## 🧠 About this human
+
+- 🧑‍💻 Writes code that works *(eventually)*
+- 🤖 Teaches machines to see, think, and sometimes misbehave
+- ☁️ Deploys things to the cloud and prays
+- 🛠️ Breaks hardware, fixes software, repeats
+- ⚠️ Known to say: *“it worked yesterday”*
+
+---
+
+## 🧰 My Toolbox (things I trust more than myself)
+
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" width="40"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="40"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ROS-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" width="40"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" width="40"/>
+</p>
+
+<p align="center">
+  <i>⚠️ May deploy to production on a Friday</i>
+</p>
+
+---
+
+## 🧪 Developer Diagnostics
+
+```txt
+OS        : Ubuntu (because pain builds character)
+Editor    : Whatever opened fastest
+Debugging : print(), hope, repeat
+Uptime    : depends on coffee ☕
+
 
 
 ## 🌐 Socials:

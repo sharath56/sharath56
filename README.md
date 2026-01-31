@@ -37,15 +37,34 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharath56&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
- ## 👾 Top Languages & Contributions:
- <div align="center">
+## 👾 Top Languages & Contributions
+
+<div align="center">
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath56&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath56&theme=dark&layout=compact"
+    height="160"
+    alt="Top Languages"
+  />
+
   <!-- GitHub Contributions -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=sharath56&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributions">
-  <!-- Visit Count -->
-  <img src="https://visitcount.itsvg.in/api?id=sharath56&icon=0&color=0">
- </div>
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=sharath56&limit=5&theme=dark&combine_all_yearly_contributions=true"
+    height="160"
+    alt="Top Contributions"
+  />
+
+  <br/>
+
+  <!-- Profile Visit Count -->
+  <img
+    src="https://visitcount.itsvg.in/api?id=sharath56&icon=0&color=0"
+    alt="Profile Views"
+  />
+
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharath-narayan) 

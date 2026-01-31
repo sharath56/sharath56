@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sharath56/sharath56/blob/main/original_23.gif" alt="me lol" width="700px">
+  <img src="https://raw.githubusercontent.com/sharath56/sharath56/main/original_23.gif" alt="me lol" width="700"/>
 </div>
 
 <h1 align="center">👾 Sharath.exe has started</h1>
@@ -69,24 +69,8 @@
 
 ## 🧪 Developer Diagnostics
 
-
+```txt
 OS        : Ubuntu (because pain builds character)
 Editor    : Whatever opened fastest
 Debugging : print(), hope, repeat
 Uptime    : depends on coffee ☕
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharath-narayan) 
-
-📫 How to reach me :https://www.linkedin.com/in/sharath-narayan-93160920b/
-
-✋🖖 my Blog https://sharathnarayan12.github.io/MY-web-page/. (still under progress ahahahahah!!!)
-
-# Live Long and Prosper 🖖
-
-<div align="center">
-  <img src="https://github.com/sharath56/sharath56/blob/main/Mario%20GIF%20-%20Mario%20-%20Discover%20%26%20Share%20GIFs.gif" style="width: 200px; height: auto;">
-</div>
-

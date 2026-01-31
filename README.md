@@ -1,30 +1,29 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sharath56/sharath56/main/original_23.gif" alt="me lol" width="700"/>
+  <img src="https://raw.githubusercontent.com/sharath56/sharath56/main/original_23.gif" alt="me" width="700"/>
 </div>
 
-<h1 align="center">👾 Sharath.exe has started</h1>
+<h1 align="center">Sharath.exe initialized</h1>
 
 <p align="center">
-  <i>ML • Cloud • Robotics • Systems • Professional bug negotiator</i>
+  ML • Cloud • Robotics • Systems • Professional bug negotiator
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharath56&label=Humans%20Visited&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sharath56&label=Visitors&style=flat" />
 </p>
 
 ---
 
-## 🧠 About this human
+## About
 
-- 🧑‍💻 Writes code that works *(eventually)*
-- 🤖 Teaches machines to see, think, and sometimes misbehave
-- ☁️ Deploys things to the cloud and prays
-- 🛠️ Breaks hardware, fixes software, repeats
-- ⚠️ Known to say: *“it worked yesterday”*
+- Software engineer who writes code that works (after enough iterations)
+- Works at the intersection of machine learning, robotics, and systems
+- Builds, deploys, breaks, fixes — in that order
+- Firm believer in the phrase: *“it worked yesterday”*
 
 ---
 
-## 🧰 My Toolbox (things I trust more than myself)
+## Toolbox
 
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40"/>
@@ -62,36 +61,39 @@
 </p>
 
 <p align="center">
-  <i>⚠️ May deploy to production on a Friday</i>
+  Deploys to production on Fridays. Occasionally survives.
 </p>
 
 ---
-## 🌐 Socials & Links (everything included)
 
-- 🔗 **LinkedIn (short):**  
+## Links
+
+- LinkedIn:  
   https://linkedin.com/in/sharath-narayan
 
-- 🔗 **LinkedIn (full):**  
+- LinkedIn (full profile):  
   https://www.linkedin.com/in/sharath-narayan-93160920b/
 
-- ✍️ **Personal Blog (WIP but alive):**  
+- Blog (work in progress):  
   https://sharathnarayan12.github.io/MY-web-page/
 
-- 💻 **GitHub Profile:**  
+- GitHub:  
   https://github.com/sharath56
 
 ---
 
-<h2 align="center">🖖 Live Long and Prosper</h2>
+<h2 align="center">Live long and ship clean code</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sharath56/sharath56/main/Mario%20GIF%20-%20Mario%20-%20Discover%20%26%20Share%20GIFs.gif" width="200"/>
 </div>
 
-## 🧪 Developer Diagnostics
+---
+
+## Developer Diagnostics
 
 ```txt
-OS        : Ubuntu (because pain builds character)
-Editor    : Whatever opened fastest
-Debugging : print(), hope, repeat
-Uptime    : depends on coffee ☕
+OS        : Ubuntu (pain builds character)
+Editor    : Whatever opens first
+Debugging : print(), logs, denial, acceptance
+Uptime    : correlated with caffeine

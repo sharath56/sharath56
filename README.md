@@ -66,6 +66,27 @@
 </p>
 
 ---
+## 🌐 Socials & Links (everything included)
+
+- 🔗 **LinkedIn (short):**  
+  https://linkedin.com/in/sharath-narayan
+
+- 🔗 **LinkedIn (full):**  
+  https://www.linkedin.com/in/sharath-narayan-93160920b/
+
+- ✍️ **Personal Blog (WIP but alive):**  
+  https://sharathnarayan12.github.io/MY-web-page/
+
+- 💻 **GitHub Profile:**  
+  https://github.com/sharath56
+
+---
+
+<h2 align="center">🖖 Live Long and Prosper</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sharath56/sharath56/main/Mario%20GIF%20-%20Mario%20-%20Discover%20%26%20Share%20GIFs.gif" width="200"/>
+</div>
 
 ## 🧪 Developer Diagnostics
 

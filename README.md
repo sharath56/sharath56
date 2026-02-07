@@ -21,16 +21,18 @@
 
 > *I build intelligent systems that learn, move, scale  
 > and occasionally catch fire (in staging).*
-
 ▸ <img src="https://cdn.simpleicons.org/github/white" width="14"/> Ships systems  
 ▸ <img src="https://cdn.simpleicons.org/pytorch/white" width="14"/> Trains perception  
 ▸ <img src="https://cdn.simpleicons.org/docker/white" width="14"/> Deploys models  
 ▸ <img src="https://cdn.simpleicons.org/ros/white" width="14"/> Debugs robots  
 ▸ <img src="https://cdn.simpleicons.org/linux/white" width="14"/> Lives in terminals  
 
-⚠ Final boss phrase: **“Nothing changed.”**
+<br/>
+
 <img src="https://cdn.simpleicons.org/warning/white" width="14"/>  
 <b>Famous last words: “It worked yesterday.”</b>
+
+
 ---
 
 ## 🧰 Toolbox (things I trust more than myself)

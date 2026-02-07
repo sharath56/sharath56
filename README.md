@@ -164,17 +164,16 @@ Plus a touch of:
 
 ## 📊 GitHub Stats (because numbers go brrr)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharath56&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharath56&theme=tokyonight&hide_border=true" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sharath56&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharath56&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath56&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath56&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 

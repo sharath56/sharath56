@@ -21,29 +21,16 @@
 
 > *I build intelligent systems that learn, move, scale  
 > and occasionally catch fire (in staging).*
-<div align="center">
 
-<img src="https://cdn.simpleicons.org/ros/white" width="16"/> Robotics  
-&nbsp;•&nbsp;
-<img src="https://cdn.simpleicons.org/pytorch/white" width="16"/> AI / Vision  
-&nbsp;•&nbsp;
-<img src="https://cdn.simpleicons.org/docker/white" width="16"/> Deployment  
-&nbsp;•&nbsp;
-<img src="https://cdn.simpleicons.org/amazonaws/white" width="16"/> Cloud  
-&nbsp;•&nbsp;
-<img src="https://cdn.simpleicons.org/linux/white" width="16"/> Systems  
+▸ <img src="https://cdn.simpleicons.org/github/white" width="14"/> Ships systems  
+▸ <img src="https://cdn.simpleicons.org/pytorch/white" width="14"/> Trains perception  
+▸ <img src="https://cdn.simpleicons.org/docker/white" width="14"/> Deploys models  
+▸ <img src="https://cdn.simpleicons.org/ros/white" width="14"/> Debugs robots  
+▸ <img src="https://cdn.simpleicons.org/linux/white" width="14"/> Lives in terminals  
 
-<br/><br/>
-
-Builds autonomous systems • Trains multimodal models • Ships to production • Debugs reality  
-
-<br/><br/>
-
+⚠ Final boss phrase: **“Nothing changed.”**
 <img src="https://cdn.simpleicons.org/warning/white" width="14"/>  
 <b>Famous last words: “It worked yesterday.”</b>
-
-</div>
-
 ---
 
 ## 🧰 Toolbox (things I trust more than myself)

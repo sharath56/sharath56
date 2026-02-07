@@ -76,71 +76,91 @@
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### 🤖 Robotics & Autonomous Systems
-- ROS / ROS2
-- C++
-- Python
-- SLAM, Sensor Fusion
-- Gazebo, RViz
-- OpenCV
----
-### 📦 Robotics Data Engineering (MCAP)
+## 🤖 Robotics & Autonomous Systems
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-- MCAP (ROS2 bag processing)
-- Multimodal sensor extraction (RGB, depth, LiDAR, IMU)
-- Timestamp synchronization
-- Dataset generation for ML / VLM
-- MCAP → Parquet / NumPy / image pipelines
+![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=for-the-badge)
+![RViz](https://img.shields.io/badge/RViz-22314E?style=for-the-badge)
+
+**SLAM • Sensor Fusion • Navigation • Perception**
 
 ---
 
-### 🧠 Machine Learning & Computer Vision
-- PyTorch
-- YOLO / Detectron
-- ONNX / TensorRT
-- OpenCV
-- Model Optimization & Deployment
+## 📦 Robotics Data Engineering (MCAP)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Apache Arrow](https://img.shields.io/badge/Apache_Arrow-3A3A3A?style=for-the-badge&logo=apachearrow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- MCAP / ROS2 bag processing  
+- Multimodal sensor extraction (RGB, Depth, LiDAR, IMU)  
+- Timestamp synchronization  
+- Dataset generation for ML / VLM  
+- MCAP → Parquet / NumPy / Image pipelines  
 
 ---
 
-### 🧩 LLM + VLM Autonomous Systems
-- OpenAI / LLaMA / Qwen
-- CLIP / BLIP / LLaVA
-- LangChain
-- MCP (Model Context Protocol)
-- Tool-Calling Agents
-- Multimodal Reasoning
-- FAISS / Chroma Vector DB
+## 🧠 Machine Learning & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Real-time detection • Tracking • Optimization • Deployment**
 
 ---
 
-### 📊 Data Engineering & Pipelines
-- Python
-- Pandas / NumPy
-- Mcap
-- ML Preprocessing Pipelines
+## 🧩 LLM + VLM Autonomous Systems
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+
+- LLM Agents (OpenAI / LLaMA / Qwen)  
+- VLMs (CLIP / BLIP / LLaVA)  
+- MCP (Model Context Protocol)  
+- Tool-calling agents  
+- Multimodal reasoning  
+- Vector DBs (FAISS / Chroma)  
 
 ---
 
-### ☁️ Cloud & MLOps
-- Azure and AWS
-- Docker
-- FastAPI / Flask
-- GitHub Actions
-- MLflow
+## 📊 Data Engineering & Pipelines
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+- ML preprocessing pipelines  
+- Dataset versioning  
+- Feature extraction  
+- Robotics → ML pipelines  
 
 ---
 
-### 🛠 Dev Tools
-- Git
-- Linux
-- Bash
-- VS Code
-- Antigravtiy 
+## ☁️ Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+- CI/CD  
+- Inference APIs  
+- Dockerized microservices  
+- MLflow experiment tracking  
 
 ---
+
+## 🛠 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+Plus a touch of:
+
+🌀 `antigravity`
+
 
 ## 📊 GitHub Stats (because numbers go brrr)
 

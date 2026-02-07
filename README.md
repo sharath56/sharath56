@@ -23,15 +23,24 @@
 > and occasionally catch fire (in staging).*
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/github/white" width="14"/> Builds production systems &nbsp;•&nbsp;
-<img src="https://cdn.simpleicons.org/pytorch/white" width="14"/> Trains perception models &nbsp;•&nbsp;
-<img src="https://cdn.simpleicons.org/docker/white" width="14"/> Deploys ML to cloud &nbsp;•&nbsp;
-<img src="https://cdn.simpleicons.org/ros/white" width="14"/> Debugs robots &nbsp;•&nbsp;
-<img src="https://cdn.simpleicons.org/linux/white" width="14"/> Lives in terminals  
+<img src="https://cdn.simpleicons.org/ros/white" width="16"/> Robotics  
+&nbsp;•&nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/white" width="16"/> AI / Vision  
+&nbsp;•&nbsp;
+<img src="https://cdn.simpleicons.org/docker/white" width="16"/> Deployment  
+&nbsp;•&nbsp;
+<img src="https://cdn.simpleicons.org/amazonaws/white" width="16"/> Cloud  
+&nbsp;•&nbsp;
+<img src="https://cdn.simpleicons.org/linux/white" width="16"/> Systems  
 
 <br/><br/>
 
-⚠ Final boss phrase: <b>“It passed locally.”</b>
+Builds autonomous systems • Trains multimodal models • Ships to production • Debugs reality  
+
+<br/><br/>
+
+<img src="https://cdn.simpleicons.org/warning/white" width="14"/>  
+<b>Famous last words: “It worked yesterday.”</b>
 
 </div>
 

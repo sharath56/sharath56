@@ -76,10 +76,6 @@
 
 ---
 
-## 🚀 Featured Projects (drop-in ready)
-
-> Replace links + descriptions with your actual projects
-
 ### 🤖 Autonomous Robotics Stack
 - ROS-based perception + control pipeline  
 - Sensor fusion, vision, navigation  

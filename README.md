@@ -28,11 +28,7 @@
 ▸ <img src="https://cdn.simpleicons.org/linux/white" width="14"/> Lives in terminals  
 
 <br/>
-
-<img src="https://cdn.simpleicons.org/warning/white" width="14"/>  
 <b>Famous last words: “It worked yesterday.”</b>
-
-
 ---
 
 ## 🧰 Toolbox (things I trust more than myself)

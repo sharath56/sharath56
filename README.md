@@ -76,20 +76,69 @@
 
 ---
 
-### 🤖 Autonomous Robotics Stack
-- ROS-based perception + control pipeline  
-- Sensor fusion, vision, navigation  
-- **Tech:** ROS, OpenCV, C++, Python  
+## 🚀 Tech Stack
 
-### 🧠 ML Vision System
-- Real-time object detection & tracking  
-- Trained, optimized, deployed  
-- **Tech:** PyTorch, OpenCV, Docker  
+### 🤖 Robotics & Autonomous Systems
+- ROS / ROS2
+- C++
+- Python
+- SLAM, Sensor Fusion
+- Gazebo, RViz
+- OpenCV
+---
+### 📦 Robotics Data Engineering (MCAP)
 
-### ☁️ Cloud ML Backend
-- Model inference APIs + CI/CD  
-- Scalable cloud deployment  
-- **Tech:** AWS, Flask, Docker  
+- MCAP (ROS2 bag processing)
+- Multimodal sensor extraction (RGB, depth, LiDAR, IMU)
+- Timestamp synchronization
+- Dataset generation for ML / VLM
+- MCAP → Parquet / NumPy / image pipelines
+
+---
+
+### 🧠 Machine Learning & Computer Vision
+- PyTorch
+- YOLO / Detectron
+- ONNX / TensorRT
+- OpenCV
+- Model Optimization & Deployment
+
+---
+
+### 🧩 LLM + VLM Autonomous Systems
+- OpenAI / LLaMA / Qwen
+- CLIP / BLIP / LLaVA
+- LangChain
+- MCP (Model Context Protocol)
+- Tool-Calling Agents
+- Multimodal Reasoning
+- FAISS / Chroma Vector DB
+
+---
+
+### 📊 Data Engineering & Pipelines
+- Python
+- Pandas / NumPy
+- Mcap
+- ML Preprocessing Pipelines
+
+---
+
+### ☁️ Cloud & MLOps
+- Azure and AWS
+- Docker
+- FastAPI / Flask
+- GitHub Actions
+- MLflow
+
+---
+
+### 🛠 Dev Tools
+- Git
+- Linux
+- Bash
+- VS Code
+- Antigravtiy 
 
 ---
 

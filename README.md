@@ -21,6 +21,7 @@
 
 > *I build intelligent systems that learn, move, scale  
 > and occasionally catch fire (in staging).*
+> 
 ▸ <img src="https://cdn.simpleicons.org/github/white" width="14"/> Ships systems  
 ▸ <img src="https://cdn.simpleicons.org/pytorch/white" width="14"/> Trains perception  
 ▸ <img src="https://cdn.simpleicons.org/docker/white" width="14"/> Deploys models  

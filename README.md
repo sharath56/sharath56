@@ -21,14 +21,35 @@
 
 > *I build intelligent systems that learn, move, scale  
 > and occasionally catch fire (in staging).*
+<ul>
 
-▸ <img src="https://cdn.simpleicons.org/github/white" width="14"/> Ships systems  
-▸ <img src="https://cdn.simpleicons.org/pytorch/white" width="14"/> Trains perception  
-▸ <img src="https://cdn.simpleicons.org/docker/white" width="14"/> Deploys models  
-▸ <img src="https://cdn.simpleicons.org/ros/white" width="14"/> Debugs robots  
-▸ <img src="https://cdn.simpleicons.org/linux/white" width="14"/> Lives in terminals  
+<li>
+<img src="https://cdn.simpleicons.org/github/white" width="16"/> 
+Builds production systems (eventually reproducible, always logged)
+</li>
 
-⚠ Final boss phrase: **“Nothing changed.”**
+<li>
+<img src="https://cdn.simpleicons.org/pytorch/white" width="16"/> 
+Trains machines to perceive, reason, and occasionally overfit
+</li>
+
+<li>
+<img src="https://cdn.simpleicons.org/amazonaws/white" width="16"/> 
+Deploys to cloud, watches dashboards, sleeps when pipelines stabilize
+</li>
+
+<li>
+<img src="https://cdn.simpleicons.org/ros/white" width="16"/> 
+Debugs robots, fixes models, breaks assumptions
+</li>
+
+<li>
+<img src="https://cdn.simpleicons.org/warning/white" width="16"/> 
+Classic last words: <b>“It passed locally.”</b>
+</li>
+
+</ul>
+
 
 ---
 

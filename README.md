@@ -195,4 +195,3 @@ OS        : Ubuntu (because pain builds character)
 Editor    : Whatever opened fastest
 Debugging : print(), logs, hope, repeat
 CI/CD     : Break → Fix → Pretend it was intentional
-Uptime    : Depends on coffee ☕

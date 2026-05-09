@@ -182,7 +182,7 @@ Plus a touch of:
 
 ## 🌐 Socials & Links
 
-- 🔗 **LinkedIn:** https://linkedin.com/in/sharath-narayan  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/sharath-vn-93160920b/
 - ✍️ **Blog:** https://sharathnarayan12.github.io/MY-web-page/  
 - 💻 **GitHub:** https://github.com/sharath56  
 
